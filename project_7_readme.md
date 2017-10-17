@@ -11,7 +11,7 @@ Time spent: **9** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.13
-  - [ ] GIF Walkthrough:
+  - [ ] GIF Walkthrough:https://github.com/ChandlerRDill/Week7-Codepath-Assignment/blob/master/Exploit1.gif
   - [ ] Steps to recreate:
         1. As a contributor, create a post on the site with an embedded youtube video link like "https://youtube.com/watch?v=etc<javascript_code>" where javascript_code is the code you wish the site to run.
         2. Submit the post.
@@ -24,7 +24,7 @@ Time spent: **9** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.10
-  - [ ] GIF Walkthrough:
+  - [ ] GIF Walkthrough:https://github.com/ChandlerRDill/Week7-Codepath-Assignment/blob/master/Exploit2.gif
   - [ ] Steps to recreate:
         1. Create a file with the name of Name_of_File<code_to_be_executed>.png where code_to_be_executed is the javascript code you'd like to execute.
         2. Set the size of the file to be greater than 2 MB using the command 'truncate'.
@@ -37,7 +37,7 @@ Time spent: **9** hours spent in total
     - Vulnerability types: XSS
     - Tested in version: 4.2
     - Fixed in version: 4.2.2
-  - [ ] GIF Walkthrough:
+  - [ ] GIF Walkthrough:https://github.com/ChandlerRDill/Week7-Codepath-Assignment/blob/master/Exploit3.gif
   - [ ] Steps to recreate:
           1. Navigate to your WPDistillery URL and move to the directory /wp-content/thems/twentyfifteen/genericons/example.html
           2. Tag onto the end of the url "#<malicious_payload>" where malicious payload is the arbitrary javascript you'd want to execute.
